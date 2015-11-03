@@ -1,0 +1,23 @@
+name: Storification
+favicon: null
+layout_spectrum: 0.195082513615489
+typography_spectrum: 0.28927807160653174
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9802185564767569
+  lightness: 0.7658123921137303
+  saturation: 0.9954604094382375
+  rhythmicContrast: 0.32843034667894244
+purpose: []
