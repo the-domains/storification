@@ -1,6 +1,6 @@
 name: Storification
 favicon: null
-layout_spectrum: 0.195082513615489
+layout_spectrum: 0.24958
 typography_spectrum: 0.28927807160653174
 title: 'HOW SUCCESSFUL PEOPLE USE STORYTELLING TO INCREASE THEIR INFLUENCE, CREATE MORE OPPORTUNITIES, AND RISE ABOVE THE COMPETITION'
 cta:
@@ -17,7 +17,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.9802185564767569
+  brandStrength: 1
   lightness: 0.7658123921137303
   saturation: 0.9954604094382375
   rhythmicContrast: 0.32843034667894244
